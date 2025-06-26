@@ -1,4 +1,4 @@
-# Zoro's Realm Answer Filter
+# Relam Of Zoro Realm Enhancer
 
 *A lightweight user script to enhance your study sessions on Zoro's Realm.*
 
