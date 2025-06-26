@@ -12,9 +12,8 @@ A beautifully integrated user script that enhances the results page on the **Zor
 ### 📸 Screenshot
 
 <p align="center">
-  <img src="https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/assets/Zoro's Realm Answer Filter in action.jpeg" width="700">
+  <img src="[https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/assets/Zoro's Realm Answer Filter in action.jpeg](https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/blob/main/assets/Zoro's%20Realm%20Answer%20Filter%20in%20action.jpeg?raw=true)" width="700">
   <br>
-  <em>(Replace the URL above with a link to a screenshot of the script in action)</em>
 </p>
 
 ---
