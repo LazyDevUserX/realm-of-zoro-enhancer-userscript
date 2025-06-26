@@ -12,7 +12,7 @@ A beautifully integrated user script that enhances the results page on the **Zor
 ### 📸 Screenshot
 
 <p align="center">
-  <img src="[https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/blob/main/assets/Zoro's%20Realm%20Answer%20Filter%20in%20action.jpeg]" width="700">
+  <img src="[https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/blob/main/assets/Zoro's%20Realm%20Answer%20Filter%20in%20action.jpeg]">
   <br>
 </p>
 
