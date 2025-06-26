@@ -2,6 +2,7 @@
 
 *A lightweight user script to enhance your study sessions on Zoro's Realm.*
 
+[![Install Script](https://img.shields.io/badge/Install%20Script-green.svg)](https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/raw/main/zoro-realm-filter.user.js)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
