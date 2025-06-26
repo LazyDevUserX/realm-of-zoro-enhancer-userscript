@@ -53,7 +53,7 @@ If you don't already have one, please install one for your browser from the link
 #### Step 2: Install the Script
 
 1.  Click the link below to open the installation page:
-    -   ➡️ [**Install Zoro's Realm Answer Filter**](https://github.com/your-username/your-repo-name/raw/main/zoro-realm-filter.user.js) *(Replace this with the direct link to your `.user.js` file)*
+    -   ➡️ [**Install Zoro's Realm Answer Filter**](https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/raw/main/zoro-realm-filter.user.js) *(Replace this with the direct link to your `.user.js` file)*
 2.  Your script manager will open and show you the source code.
 3.  Click the **Install** button.
 
