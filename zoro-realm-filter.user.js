@@ -1,9 +1,9 @@
 
 // ==UserScript==
-// @name         Relam Of Zoro Answer Filter
+// @name         Relam Of Zoro Enhancer
 // @namespace    http://tampermonkey.net/
 // @version      1.0.1
-// @description  Adds filter buttons at result page
+// @description  Adds buttons to filter correct,incorrect and not attempted at result page
 // @author       LaxyDevUserX
 // @match        https://realm-of-zoro.pages.dev/pages/*
 // @grant        none
