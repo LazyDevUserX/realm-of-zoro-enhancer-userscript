@@ -1,6 +1,6 @@
 # Relam Of Zoro Realm Enhancer
 
-*A lightweight user script to enhance your study sessions on Zoro's Realm.*
+*A lightweight user script to enhance your study sessions on [Relam Of Zoro](https://realm-of-zoro.pages.dev/).*
 
 [![Install Script](https://img.shields.io/badge/Install%20Script-green.svg)](https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/raw/main/zoro-realm-filter.user.js)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -8,7 +8,11 @@
 
 ---
 
-A beautifully integrated user script that enhances the results page on the **Zoro's Realm** exam platform. This script adds a set of filter buttons directly into the score summary, allowing you to instantly sort and review your performance with ease.
+<p align="center">
+  <img src="https://realm-of-zoro.pages.dev/assets/favicon-96x96.png">
+</p>
+<p align="center"> <em>Relam Of Zoro Enhancer</em></p>
+A beautifully integrated user script that enhances the results page on the Relam Of Zoro exam platform. This script adds a set of filter buttons directly into the score summary, allowing you to instantly sort and review your performance with ease.
 
 ### 📸 Screenshot
 
