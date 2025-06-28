@@ -1,6 +1,6 @@
 
 // ==UserScript==
-// @name         Zoro's Realm Answer Filter
+// @name         Relam Of Zoro Answer Filter
 // @namespace    http://tampermonkey.net/
 // @version      1.0.1
 // @description  Adds filter buttons at result page
@@ -8,6 +8,7 @@
 // @match        https://realm-of-zoro.pages.dev/pages/*
 // @grant        none
 // @run-at       document-idle
+// @icon         https://realm-of-zoro.pages.dev/assets/favicon-96x96.png
 // ==/UserScript==
 
 (function() {
