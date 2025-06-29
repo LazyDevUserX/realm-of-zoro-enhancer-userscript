@@ -1,4 +1,4 @@
-# Relam Of Zoro Realm Enhancer
+# Relam Of Zoro Enhancer
 
 *A lightweight user script to enhance your study sessions on [Relam Of Zoro](https://realm-of-zoro.pages.dev/).*
 
@@ -57,7 +57,7 @@ If you don't already have one, please install one for your browser from the link
 #### Step 2: Install the Script
 
 1.  Click the link below to open the installation page:
-    -   ➡️ [**Install Zoro's Realm Answer Filter**](https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/raw/main/zoro-realm-filter.user.js)
+    -   ➡️ [**Install Relam Of Zoro Enhancer**](https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/raw/main/zoro-realm-filter.user.js)
 2.  Your script manager will open and show you the source code.
 3.  Click the **Install** button.
 
