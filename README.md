@@ -4,6 +4,7 @@
 
 [![Install Script](https://img.shields.io/badge/Install%20Script-green.svg)](https://github.com/LazyDevUserX/realm-of-zoro-enhancer-userscript/raw/main/zoro-realm-filter.user.js)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Views](https://komarev.com/ghpvc/?username=LazyDevUserX&label=Repo%20Views&color=blue&style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ---
@@ -76,3 +77,4 @@ If you don't already have one, please install one for your browser from the link
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
